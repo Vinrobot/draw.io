@@ -1,0 +1,19 @@
+{
+	"hediet.vscode-drawio.customLibraries": [
+		{
+			"entryId": "MikroTik",
+			"libName": "MikroTik",
+			"file": "${workspaceFolder}/libraries/MikroTik.xml"
+		},
+		{
+			"entryId": "HPE",
+			"libName": "HPE",
+			"file": "${workspaceFolder}/libraries/HPE.xml"
+		},
+		{
+			"entryId": "Arista",
+			"libName": "Arista",
+			"url": "https://jgraph.github.io/drawio-libs/libs/arista.xml"
+		}
+	]
+}
